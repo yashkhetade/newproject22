@@ -1,0 +1,12 @@
+#cv-template{
+    display: none;
+}
+
+
+.my-img{
+    width:140px ;
+}
+.background{
+    color: white;
+    background-color: rgb(38, 25, 102);
+}
